@@ -152,6 +152,6 @@ See the **LICENSE file** for more information.
 
 ## Author
 
-Created by **[Liana]**  
+Created by **Liana**  
 Student — Web Development Program
 2026
