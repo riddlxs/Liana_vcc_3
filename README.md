@@ -33,11 +33,11 @@ Each cat living in the café has its own profile within the system.
 Profiles will include:
 
 • Cat name  
-• Age
-• Birthday
+• Age  
+• Birthday  
 • Breed  
-• Favourite toy
-• Friends
+• Favourite toy  
+• Friends (other cats they enjoy spending time with)  
 • Personality description  
 • Health information  
 • Adoption availability
