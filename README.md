@@ -123,7 +123,7 @@ If developed as a real web application, Cat Café Manager could use modern web t
 • Git  
 • GitHub  
 
-These technologies would allow the system to run as a **web-based dashboard accessible from any device used by café staff!**.
+These technologies would allow the system to run as a web-based dashboard accessible from any device used by café staff!
 
 ---
 
