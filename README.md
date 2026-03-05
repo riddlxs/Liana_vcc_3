@@ -4,8 +4,6 @@ Cat Café Manager is a web-based management system designed to help staff organi
 
 This project imagines a digital platform that allows café staff to manage cats, monitor feeding schedules, organize visitor reservations, and track adoption applications.
 
-The purpose of this project is to show that I understand how to organize a GitHub project, write documentation, and use version control for my web development course.
-
 ---
 
 ## Project Overview
