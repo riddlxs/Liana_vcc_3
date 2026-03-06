@@ -1,6 +1,6 @@
 # Cat Café Manager 🐱☕
 
-Cat Café Manager is a web-based management system designed to help staff organize and operate a modern cat café. Cat cafés are unique spaces where visitors can relax, enjoy drinks, and spend time with adoptable cats in a comfortable environment.
+Cat Café Manager is a web based management system designed to help staff organize and operate a modern cat café. Cat cafés are unique spaces where visitors can relax, enjoy drinks, and spend time with adoptable cats in a comfortable environment.
 
 This project imagines a digital platform that allows café staff to manage cats, monitor feeding schedules, organize visitor reservations, and track adoption applications.
 
