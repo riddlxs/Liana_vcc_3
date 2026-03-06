@@ -152,6 +152,7 @@ See the **LICENSE file** for more information.
 
 Created by **Liana**  
 Student — Web Development Program
+
 2026
 
 <footer>
