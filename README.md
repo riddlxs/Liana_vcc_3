@@ -153,3 +153,7 @@ See the **LICENSE file** for more information.
 Created by **Liana**  
 Student — Web Development Program
 2026
+
+<footer>
+&copy; 2026 Cat Café Manager
+</footer>
